@@ -5,4 +5,4 @@ https://www.academia.edu/download/59756973/IOT_based_Real-time_Drowsy_Driving_De
 Hardware used for this project:
 Raspberry Pi,
 Pi camera module,
-Buzzer or Soundbox.
+Buzzer
