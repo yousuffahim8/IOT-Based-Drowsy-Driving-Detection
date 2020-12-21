@@ -6,3 +6,5 @@ Hardware used for this project:
 Raspberry Pi,
 Pi camera module,
 Buzzer
+
+Code will be uploaded later
